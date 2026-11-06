@@ -2,7 +2,8 @@
 
 Organize shared code by function; record contributors in provenance and commits.
 The following is a proposal for team discussion, not a confirmed assignment.
-Only io/pdb.py and geometry.py are implemented by this initial contribution.
+Implemented so far: io/pdb.py, geometry.py, libraries/backbone.py and
+reconstruction/backbone.py. Other modules below remain proposed.
 
 ```text
 src/pyculchra/
